@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425 41" width="425" height="41">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="359.084" y1="5.047" x2="363.251" y2="9.83">
+			<stop offset="0" stop-color="#30b4ff"  />
+			<stop offset="1" stop-color="#3051ff"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="414.49" y1="5.047" x2="418.656" y2="9.83">
+			<stop offset="0" stop-color="#30b4ff"  />
+			<stop offset="1" stop-color="#3051ff"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="400.638" y1="5.047" x2="404.805" y2="9.83">
+			<stop offset="0" stop-color="#30b4ff"  />
+			<stop offset="1" stop-color="#3051ff"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="386.788" y1="5.047" x2="390.954" y2="9.83">
+			<stop offset="0" stop-color="#30b4ff"  />
+			<stop offset="1" stop-color="#3051ff"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="372.935" y1="5.047" x2="377.102" y2="9.83">
+			<stop offset="0" stop-color="#30b4ff"  />
+			<stop offset="1" stop-color="#3051ff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+		.shp3 { fill: url(#grd4) } 
+		.shp4 { fill: url(#grd5) } 
+		.shp5 { fill: #3075ff } 
+	</style>
+	<path id="Layer" class="shp0" d="M364.04 0.72L320.75 42.28L325.94 42.28L369.23 0.72L364.04 0.72Z" />
+	<path id="Layer" class="shp1" d="M419.44 0.72L376.15 42.28L381.35 42.28L424.63 0.72L419.44 0.72Z" />
+	<path id="Layer" class="shp2" d="M405.59 0.72L362.3 42.28L367.5 42.28L410.78 0.72L405.59 0.72Z" />
+	<path id="Layer" class="shp3" d="M391.74 0.72L348.45 42.28L353.65 42.28L396.93 0.72L391.74 0.72Z" />
+	<path id="Layer" class="shp4" d="M377.89 0.72L334.6 42.28L339.79 42.28L383.08 0.72L377.89 0.72Z" />
+	<g id="Layer">
+		<path id="Layer" class="shp5" d="M312.25 42.14L354.75 0.85L1 0.85L1 42.14L312.25 42.14Z" />
+	</g>
+</svg>

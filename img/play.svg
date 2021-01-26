@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 49" width="49" height="49">
+	<defs>
+		<image width="49" height="49" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAxCAMAAABEQrEuAAAAAXNSR0IB2cksfwAAAEJQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////CF/ShgAAABZ0Uk5TABBAb5/P3//vr4BQYF9PjyAwoHCwkAowdnwAAAEDSURBVHicvZbZEoMgDEUBwSDWvf7/rxYcbS0IculM76scsxCSMOaLi0qqmoi0aowIPgcSUtNZWrbJ84+aQtVd/P9X5zemvzzPh8h5p4GHwBgzsJsZfWBKAxaZPEDfADZrX8iNS6FjPAewyCf8VJbOGg6gzQSIjqLJ82nzay+NbICoA03sRvKjcHKRzBAhLXF/22dpzgQEOLcMSCysAQnJFEgoMHB3IyBA9BcCqSonXZArrKyInmwBCVNQVxys3aL3gbnVF73zgl6C9ysgkvdMXDOB9Yfejs+PghlVMAcLZq0NP5Wx9WKeuy4f3RniCw26l2x2Zn/3yVmYTKMcVitZidD/F8vaNjEB00AzAAAAAElFTkSuQmCC"/>
+		<image width="14" height="26" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAaBAMAAAB1IXBvAAAAAXNSR0IB2cksfwAAACpQTFRFMK//MLL/AAAAMLP/MLT/MLT/MLT/MLT/MLT/MLX/MLT/MLT/MLL/MLX/iu3EZAAAAA50Uk5TEFAAgP/Pv5+Pf3BfoK9Si5MUAAAAWElEQVR4nGNgZFICAQaTACjtygShXZKgtDuUdimC0u5QGiQApj2gtMskKO0JpV0mQWkvKO0NpY0gtDNUnRGEdoaacwhC+0DtOQShfaDuuITiziVQd0P9AQCzRCdzfuiTQQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<use id="Background" href="#img2" x="17" y="11" />
+</svg>
